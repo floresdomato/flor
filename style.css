@@ -1,0 +1,30 @@
+html {
+  font-family: 'Courier New', Courier, monospace; 
+  background-color: #334257;
+  color: aliceblue;
+}
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+img {
+  height: 100%;
+  width:  100%;
+}
+
+a {
+  color: #548CA8;
+}
+a:hover {
+  color: aqua;
+}
+
+fieldset {
+  justify-content: center;
+}
+fieldset input #enviar {
+  display: block;
+}
